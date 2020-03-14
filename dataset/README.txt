@@ -2,8 +2,7 @@ This brain tumor dataset containing 3064 T1-weighted contrast-inhanced images
 from 233 patients with three kinds of brain tumor: meningioma (708 slices), 
 glioma (1426 slices), and pituitary tumor (930 slices). Due to the file size
 limit of repository, we split the whole dataset into 4 subsets, and achive 
-them in 4 .zip files with each .zip file containing 766 slices.The 5-fold
-cross-validation indices are also provided.
+them in 4 .zip files with each .zip file containing 766 slices.
 
 -----
 This data is organized in matlab data format (.mat file). Each file stores a struct
